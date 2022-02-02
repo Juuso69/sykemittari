@@ -1,6 +1,6 @@
 # sykemittari
 
-
+By. Juuso oijala
 
 
 
