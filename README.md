@@ -1,6 +1,6 @@
-# sykemittari
+# Sykemittari
 
-- Juuso oijala
+Juuso oijala
  
 **Asioita mitä tarvitset sykemittarin tekemiseen**
   - RaspBerry Pi4
